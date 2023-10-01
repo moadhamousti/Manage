@@ -1,13 +1,21 @@
 # Manage Main Page:
 
 ### Tools Used :
-- HTML : [(https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+- HTML
   
-- CSS : [(https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+- CSS
   
-- JavaScript : [(https://skillicons.dev/icons?i=js)](https://skillicons.dev) & GSAP Package
+- JavaScript : Uncludes GSAP Package.
 
 ### Features :
 
+☑️ Responsive .
+
+☑️ Animation .
+
+
+<img width="949" alt="Desktop" src="https://github.com/moadhamousti/Manage/assets/118165767/441cee80-07a5-460f-b5c4-d3e408389b73">
+
+<img width="257" alt="Phone" src="https://github.com/moadhamousti/Manage/assets/118165767/0ffc5f76-ff65-43a7-8bc9-cbc51470a22b">
 
 
