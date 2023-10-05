@@ -1,6 +1,6 @@
 # Manage Main Page 👨🏻‍💻 : 
 
-### Tools Used : ⚒️
+### Tools Used ⚒️ : 
 
 - HTML
   
@@ -8,7 +8,7 @@
   
 - JavaScript : Uncludes GSAP Package.
 
-### Features : 🔥
+### Features 🔥
 
 ☑️ Responsive .
 
