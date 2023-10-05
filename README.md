@@ -8,7 +8,7 @@
   
 - JavaScript : Uncludes GSAP Package.
 
-### Features 🔥
+### Features 🔥 :
 
 ☑️ Responsive .
 
