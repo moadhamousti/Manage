@@ -1,5 +1,5 @@
 
-
+ 
 const menu = document.querySelector('.mobile nav');
 const hamburguer = document.querySelector('.menu');
 const closeHamburguer = document.querySelector('#close-menu');
